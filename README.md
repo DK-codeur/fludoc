@@ -4,7 +4,7 @@
 animated icon est un widget permettant d'utiliser des icon animes
 
 ## AnimatedList
-Est un widget permettant de créer une liste Animé 
+Est un widget permettant de créer une liste Animée 
 
 ## AnimatedOpacity 
 AnimatedOpacity est widget qui anime l'opacité compris entre 0 et 1
@@ -18,6 +18,26 @@ Il anime le positionnement d'un widget que ce soit haut, bas, gauche, droite
 
 ## AnimatedSwitch
 Anime le toggle (true,false) du switch
+
+
+## ConstraintBox 
+ConstraintBox limite la taille maximale 
+
+
+## Draggable
+Ce widget permet de faire du "drag and drop" (déplacer des données d'un endroit A à un endroit B). Les données sont de tout type d'information
+
+
+## inheritedWidget 
+ce widget Permet d'hériter des informations d'un autre widget 
+
+
+## MediaQuery 
+il permet d'adapter notre appli sur tout type d'écran 
+
+## RichText
+Il permet la mise en forme d'un Contenu r type texte 
+
 
 ## Getting Started
 
