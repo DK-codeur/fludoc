@@ -38,6 +38,23 @@ il permet d'adapter notre appli sur tout type d'écran
 ## RichText
 Il permet la mise en forme d'un Contenu r type texte 
 
+## ReorderableListView 
+Construit une liste dont les éléments peuvent changé de position 
+
+## Stack 
+Un widget qui empile ses enfants 
+
+
+## Placeholder
+Placeholder est utilisé pour le développement il permet de réserver un endroit avec une motif comme fond
+
+
+## Spacer
+Spacer est utilisé pour l'espacement 
+
+
+
+
 
 ## Getting Started
 
