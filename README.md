@@ -52,6 +52,12 @@ Placeholder est utilisé pour le développement il permet de réserver un endroi
 ## Spacer
 Spacer est utilisé pour l'espacement 
 
+## Semantics 
+utile pour les donnée de metade l'app
+
+
+## IndexedStack
+Est un stack qui donne des index a ses enfants 
 
 
 
