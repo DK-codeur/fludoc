@@ -60,6 +60,11 @@ utile pour les donnée de metade l'app
 Est un stack qui donne des index a ses enfants 
 
 
+## AspectRatio
+ce widget tente de redimensionner son enfant selon un rapport hauteur/largeur
+
+## LimitedBox
+Limite L'occupation De l'espacement  de ses enfants
 
 
 ## Getting Started
