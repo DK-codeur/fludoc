@@ -3,6 +3,22 @@
 ## Animated icon
 animated icon est un widget permettant d'utiliser des icon animes
 
+## AnimatedList
+Est un widget permettant de créer une liste Animé 
+
+## AnimatedOpacity 
+AnimatedOpacity est widget qui anime l'opacité compris entre 0 et 1
+
+
+## AnimatedPadding
+Ce widget anime la marge intérieur 
+
+## AnimatedPosition
+Il anime le positionnement d'un widget que ce soit haut, bas, gauche, droite 
+
+## AnimatedSwitch
+Anime le toggle (true,false) du switch
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
